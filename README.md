@@ -1,2 +1,2 @@
 # codehustlers
-innerver hackathon project
+innerve hackathon project
